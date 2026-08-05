@@ -1,4 +1,4 @@
-# data name added to dev 
+
 # Initial dev environment setup
 data "aws_caller_identity" "current" {}
 
